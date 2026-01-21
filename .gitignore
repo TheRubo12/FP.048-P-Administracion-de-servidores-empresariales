@@ -1,0 +1,20 @@
+# SO / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# PowerShell / scripts
+*.log
+
+# Secrets / material sensible
+*.pem
+*.key
+*.pfx
+*.crt
+*.csr
+*.p12
+*.kdbx
+.env
+.env.*
+secrets/
