@@ -5,4 +5,4 @@ Este directorio puede incluir material de soporte al proyecto, por ejemplo:
 - Configuraciones o plantillas (sin secretos)
 - Notas técnicas de despliegue o troubleshooting
 
-Recomendación: no incluir credenciales, claves privadas ni datos sensibles.
+
